@@ -1,0 +1,25 @@
+.grande{
+	height: 300px;
+	width: 300px;
+	background: #0000CC;
+	position: static;
+	
+}
+.mediana{
+	height: 160px;
+	width: 160px;
+	background: #009933;
+	position: relative;;
+	left: 70px;
+	right: 50px;
+	top: 70px;
+	bottom: 50px; 
+
+}
+.pequeña{
+	height: 70px;
+	width: 70px;
+	background: #000000;
+	position: absolute;
+
+}
